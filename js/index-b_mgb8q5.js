@@ -1,4 +1,4 @@
-const SITE_NAME = 'Fellow Ship';
+const SITE_NAME = 'Noctane RPG';
 
 function getVisitCount() {
   const key = 'verified_visit_count';
